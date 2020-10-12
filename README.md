@@ -17,6 +17,9 @@ A list of useful & tested [VS Code](https://code.visualstudio.com/) extensions:
 * [Coverage Gutters](https://marketplace.visualstudio.com/items?itemName=ryanluker.vscode-coverage-gutters)
 * [HiRez.io Testing Snippets](https://marketplace.visualstudio.com/items?itemName=hirez.hirez-testing-snippets) 😀
 
+## For TypeScript
+* [Move TS](https://marketplace.visualstudio.com/items?itemName=stringham.move-ts) 😀
+
 ## For Angular users
 * [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 * [angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher)

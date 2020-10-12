@@ -1,21 +1,22 @@
 # useful-vscode-extensions
 A list of useful & tested [VS Code](https://code.visualstudio.com/) extensions: 
 
-
+* [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-* [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
-* [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
+* [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 * [expand-region](https://marketplace.visualstudio.com/items?itemName=letrieu.expand-region)
-* [Git Blame](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame)
-* [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
-* [Jumpy](https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy)
-* [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+* [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+* [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+* [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+* [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens)
 * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
-
-## For TypeScript users
-* [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
-* [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero)
+* [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+* [Vuln Cost - Security Scanner](https://marketplace.visualstudio.com/items?itemName=snyk-security.vscode-vuln-cost)
+	
+## For Testing
+* [Coverage Gutters](https://marketplace.visualstudio.com/items?itemName=ryanluker.vscode-coverage-gutters)
+* [HiRez.io Testing Snippets](https://marketplace.visualstudio.com/items?itemName=hirez.hirez-testing-snippets) 😀
 
 ## For Angular users
 * [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
-* [Angular TypeScript Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
+* [angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher)

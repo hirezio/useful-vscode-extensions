@@ -26,3 +26,4 @@ A list of useful & tested [VS Code](https://code.visualstudio.com/) extensions:
 * [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 * [angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher)
 * [angular-schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics)
+* [arrr](https://marketplace.visualstudio.com/items?itemName=obenjiro.arrr)

@@ -16,7 +16,7 @@ A list of useful & tested [VS Code](https://code.visualstudio.com/) extensions:
 ## For Testing
 * [Coverage Gutters](https://marketplace.visualstudio.com/items?itemName=ryanluker.vscode-coverage-gutters)
 * [HiRez.io Testing Snippets](https://marketplace.visualstudio.com/items?itemName=hirez.hirez-testing-snippets) 😀
-* [Jest Run It](https://marketplace.visualstudio.com/items?itemName=vespa-dev-works.jestRunIt) 😀
+* [Jest Run It](https://marketplace.visualstudio.com/items?itemName=vespa-dev-works.jestRunIt)
 
 
 ## For TypeScript
